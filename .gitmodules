@@ -1,0 +1,3 @@
+[submodule "audio-control-protocol"]
+	path = audio-control-protocol
+	url = https://github.com/elk-audio/audio-control-protocol.git

@@ -47,4 +47,13 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+*.o
+*.ko
+*.a.cmd
+*.o.*
+*.a
+*.mod*
+modules*
+Module*
+*.ko.cmd*
 
